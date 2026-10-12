@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kre8tiveminds.com/sitemap.xml
